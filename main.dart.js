@@ -73585,7 +73585,7 @@ s.Q="\u8acb\u6c42\u767c\u751f\u932f\u8aa4: "+A.i(this.b)
 s.z=[]},
 $S:0}
 A.adf.prototype={
-$2(a,b){var s=null,r=this.a.z[b],q=J.b4(r),p=A.eD(A.i(q.h(r,"course"))+" - "+A.i(q.h(r,"teacher")),s,s,s,B.MH,s,s),o=A.eD(A.i(q.h(r,"school_name"))+" - "+A.i(q.h(r,"year"))+" - "+A.i(q.h(r,"department")),s,s,s,s,s,s),n=A.eD(J.aub(q.h(r,"comment"),"<br/>","\n"),s,s,s,s,s,s),m=A.eD("\u63a8\u85a6: "+A.i(q.h(r,"recommend"))+" \u96e3\u6613: "+A.i(q.h(r,"hard")),s,s,s,s,s,s),l=A.avm(q.h(r,"timestamp"))
+$2(a,b){var s=null,r=this.a.z[b],q=J.b4(r),p=A.eD(A.i(q.h(r,"course"))+" - "+A.i(q.h(r,"teacher")),s,s,s,B.MH,s,s),o=A.eD(A.i(q.h(r,"school_name"))+" - "+A.i(q.h(r,"year"))+" - "+A.i(q.h(r,"department")),s,s,s,s,s,s),n=A.eD(J.aub(q.h(r,"comment"),"<br />","\n"),s,s,s,s,s,s),m=A.eD("\u63a8\u85a6: "+A.i(q.h(r,"recommend"))+" \u96e3\u6613: "+A.i(q.h(r,"hard")),s,s,s,s,s,s),l=A.avm(q.h(r,"timestamp"))
 return new A.Dj(5,B.By,new A.de(B.i3,A.ahe(A.b([p,o,B.wI,n,B.wI,m,A.eD("\u65e5\u671f: "+A.avf("yyyy-MM-dd HH:mm:ss").w0(l.aft()),s,s,s,s,s,s)],t.E),B.c6,B.bK,B.iD),s),s)},
 $S:459}
 A.adg.prototype={
