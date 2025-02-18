@@ -75096,7 +75096,7 @@ p7(){var s=0,r=A.P(t.H),q=1,p,o=this,n,m,l,k,j,i
 var $async$p7=A.Q(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:j=o.d.a.a
 j=j.length===0?17:A.dR(j,null)
-n=A.aw(["token","eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmFtZSI6IjQxMTAyNTAzMCIsImlhdCI6MTcyNjA1MTA3NH0.K0sBIhgRV53EuDRCxvZiBiDo_r_lgb7fZfiikB6ag70","school_id",j,"year",o.e.a.a,"department",o.f.a.a,"course",o.r.a.a,"teacher",o.w.a.a,"recommend",o.x.a.a,"hard",o.y.a.a],t.N,t.K)
+n=A.aw(["token","eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmFtZSI6IjQxMTAyNTAzMCIsImlhdCI6MTczOTg3NDY3Nn0.L1bTqNrKB9Hrro0khJWoReO6rgP_Qi_LTkastIZIj4M","school_id",j,"year",o.e.a.a,"department",o.f.a.a,"course",o.r.a.a,"teacher",o.w.a.a,"recommend",o.x.a.a,"hard",o.y.a.a],t.N,t.K)
 q=3
 s=6
 return A.S(o.wR(n),$async$p7)
